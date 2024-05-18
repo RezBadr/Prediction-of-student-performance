@@ -1,4 +1,4 @@
-# Prediction-of-student-performance
+# Prediction-of-premier-league-results
 Machine Learning Mini projet
 
 #-------------le noms de groupe --------------------------------
