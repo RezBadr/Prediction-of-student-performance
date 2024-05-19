@@ -8,5 +8,5 @@ Badr Rezouki
 Oustad Mohammed
 Mahtalah Mohammed
 
-lien de datset 
+lien de dataset 
 https://www.kaggle.com/datasets/zaeemnalla/premier-league/data?select=results.csv
