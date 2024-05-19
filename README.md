@@ -24,23 +24,25 @@ Exigences :
         xgboost
         lightgbm
 
-Installation
+#-------------------------Installation-----------
 
-    Assurez-vous d'avoir Python 3.x ou une version ultérieure installée sur votre système.
-    Créez un environnement virtuel et installez les dépendances requises en utilisant la commande suivante :
-  pip install -r requirements.txt
+Assurez-vous d'avoir Python 3.x ou une version ultérieure installée sur votre système.
+Créez un environnement virtuel et installez les dépendances requises en utilisant la commande suivante :
+    
+    pip install -r requirements.txt
   
-Utilisation
+#-------------------------Utilisation-------------
 
-    Clonez le dépôt GitHub contenant le code.
-    Accédez au répertoire du projet.
-    Exécutez le script principal :
-  python main.py
+Clonez le dépôt GitHub contenant le code.
+Accédez au répertoire du projet.
+Exécutez le script principal :
+    
+    python main.py
 
-Remarques
+-----------------------#Remarques--------------
 
-    Ce fichier README fournit les instructions de base pour l'exécution du code. Des instructions supplémentaires peuvent être incluses dans le code lui-même ou dans des fichiers séparés.N'hésitez pas à modifier le code en fonction de vos besoins spécifiques.
-    Si vous rencontrez des problèmes, veuillez consulter la documentation des bibliothèques respectives ou créer un problème sur le dépôt GitHub.  
+Ce fichier README fournit les instructions de base pour l'exécution du code. Des instructions supplémentaires peuvent être incluses dans le code lui-même ou dans des fichiers séparés.N'hésitez pas à modifier le code en fonction de vos besoins spécifiques.
+Si vous rencontrez des problèmes, veuillez consulter la documentation des bibliothèques respectives ou créer un problème sur le dépôt GitHub.  
 
 Contribution
 
